@@ -1,0 +1,9 @@
+[debug] Packaging D:\dev\bigdata\scala\target\scala-2.13\safatiscala_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	hello
+[debug] 	  D:\dev\bigdata\scala\target\scala-2.13\classes\hello
+[debug] 	hello\Hello$.class
+[debug] 	  D:\dev\bigdata\scala\target\scala-2.13\classes\hello\Hello$.class
+[debug] 	hello\Hello.class
+[debug] 	  D:\dev\bigdata\scala\target\scala-2.13\classes\hello\Hello.class
+[debug] Done packaging.
