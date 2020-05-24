@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaPlayGround.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaPlayGround.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaPlayGround-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaPlayGround-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearnSpark.iml" filepath="$PROJECT_DIR$/.idea/modules/LearnSpark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearnSpark-build.iml" filepath="$PROJECT_DIR$/.idea/modules/LearnSpark-build.iml" />
     </modules>
   </component>
 </project>
